@@ -32,7 +32,6 @@
 @media only screen and (max-width: 1279px) {
     .PersonalPanel {
         display: block;
-        height: 100vh;
         min-height: 100px;
         width: 100%;
         background-color: #222120;
