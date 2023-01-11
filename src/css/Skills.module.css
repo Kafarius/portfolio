@@ -29,3 +29,29 @@
 .other {
 
 }
+
+
+@media only screen and (max-width: 1279px) {
+    .skills {
+        display: block;
+        height: auto;
+        min-height: 100px;
+        width: 100%;
+        background-color: #222120;
+        box-sizing: border-box;
+        padding: 20px 50px 50px 50px;
+        margin-top: 6%;
+    }
+    .skills header h2{
+        text-align: center;
+        color: #00a3d9;
+        margin: 0;
+    }
+    .frontend {
+
+    }
+    .frontend h3 {
+        color: #00587f;
+        text-align: center;
+    }
+}

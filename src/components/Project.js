@@ -8,7 +8,7 @@ const Project = (props) => {
       className={styles.project}
       initial={{ opacity: 0, translateX: 150 }}
       animate={{ opacity: 1, translateX: 0 }}
-      transition={{ duration: 1, delay: 1 }}
+      transition={{ duration: 1, delay: 0.7 }}
     >
       <header>
         <h3>

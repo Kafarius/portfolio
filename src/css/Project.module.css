@@ -59,3 +59,78 @@ header a {
     text-align: center;
     color: #00c26b;
 }
+
+
+@media only screen and (max-width: 1279px) {
+    .project {
+        display: block;
+        height: auto;
+        width: 90%;
+        margin: 20px auto;
+        background-color: #1f1e1d;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+    header {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    header h3 {
+        width: 100%;
+        margin: 0;
+        padding: 0 !important;
+        box-sizing: border-box;
+        text-align: left;
+    }
+    header h3 a {
+        display: block;
+        color: #b7b6b5;
+        width: 100%;
+        text-align: left;
+        padding: 0;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+    header h3 a:hover {
+        /*text-decoration: none;*/
+        color: #00c26b;
+        /*font-style: normal;*/
+    }
+    header a {
+        font-style: italic;
+        color: #00587f;
+        margin-right: 20px;
+    }
+
+    .description {
+        padding-left: 0;
+        color: #a09f9e;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .technologies {
+        display: flex;
+        justify-content: space-around;
+        align-content: space-around;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+    .tech {
+        margin-bottom: 10px;
+    }
+    .tech img {
+        display: block;
+        width: 50px;
+        height: 50px;
+        margin: 0 auto;
+    }
+    .tech p {
+        margin: 5px auto;
+        text-align: center;
+        color: #00c26b;
+    }
+
+}
