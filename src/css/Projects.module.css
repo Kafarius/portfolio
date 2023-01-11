@@ -1,0 +1,17 @@
+.projects {
+    display: block;
+    width: 75%;
+    float: right;
+}
+.projects h3 {
+    padding-left: 9%;
+    font-style: italic;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: #00c26b;
+}
+header h3 {
+    margin: 0 !important;
+    padding-left: 20px !important;
+
+}

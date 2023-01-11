@@ -1,0 +1,15 @@
+.header {
+  margin: 0;
+  padding: 0;
+  width: 75%;
+  float: right;
+  background-color: #21201f;
+}
+.header h2 {
+  margin: 0;
+  padding: 20px 15%;
+  color: #00a3d9;
+}
+body {
+  background-color: #3c3c3c;
+}

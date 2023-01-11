@@ -1,0 +1,40 @@
+.skill {
+    display: block;
+    width: auto;
+    height: 30px;
+    background-color: #171615;
+    margin: 10px auto;
+    /*padding-top: 5px;*/
+    box-sizing: border-box;
+}
+
+.skill img {
+    width: 30px;
+    height: 30px;
+    float: right;
+}
+.progress {
+    display: block;
+    width: 80%;
+    height: 20px;
+    background-color: #4f4e4d;
+    box-sizing: border-box;
+    margin-left: 5%;
+    transform: translateY(5px);
+
+}
+.bar {
+    display: block;
+    height: 20px;
+    background-color: #00c26b;
+}
+.bar h4 {
+    text-align: center;
+    margin: 0;
+    padding: 0 15px;
+    color: #222120;
+    box-sizing: border-box;
+    font-size: 15px;
+    text-align: left;
+
+}

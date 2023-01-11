@@ -1,0 +1,30 @@
+.PersonalPanel {
+    display: block;
+    height: auto;
+    min-height: 100px;
+    width: 25%;
+    background-color: #222120;
+    box-sizing: border-box;
+    padding: 80px 50px 50px 50px;
+
+    }
+.PersonalPanel img{
+    display: block;
+    width: 246px;
+    height: 316px;
+    margin: 0 auto;
+    border-radius: 6px;
+}
+.PersonalInfo {
+
+}
+.PersonalInfo h2{
+    text-align: center;
+    color: #00a3d9;
+}
+.PersonalInfo p{
+    margin: 10px auto;
+    padding: 0;
+    color: #00587f;
+    text-align: center;
+}
