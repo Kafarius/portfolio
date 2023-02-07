@@ -57,6 +57,18 @@ function App() {
       url: "https://grand-rugelach-f47069.netlify.app/",
     },
     {
+      name: "Random Users Data Generator",
+      description:
+        "It's a simple data generator, based on dummy-data. you can choose data by selecting checkboxes. ",
+      technologies: [
+        { name: "React", src: "/img/icons/React-Light.svg" },
+        { name: "HTML", src: "img/icons/HTML.svg" },
+        { name: "CSS", src: "/img/icons/CSS.svg" },
+      ],
+      githublink: "https://github.com/Kafarius/data_gen",
+      url: "https://poetic-bunny-3a8db1.netlify.app",
+    },
+    {
       name: "Calendar/Planner",
       description:
         "This is an application that allows You to improve your time management and plan future events. Made on Python and Django.",
